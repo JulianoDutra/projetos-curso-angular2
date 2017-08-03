@@ -1,10 +1,10 @@
-import { XPage } from './app.po';
+import { DiretivasPage } from './app.po';
 
-describe('x App', () => {
-  let page: XPage;
+describe('diretivas App', () => {
+  let page: DiretivasPage;
 
   beforeEach(() => {
-    page = new XPage();
+    page = new DiretivasPage();
   });
 
   it('should display welcome message', () => {

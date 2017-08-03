@@ -1,6 +1,6 @@
 import { browser, by, element } from 'protractor';
 
-export class XPage {
+export class DiretivasPage {
   navigateTo() {
     return browser.get('/');
   }
